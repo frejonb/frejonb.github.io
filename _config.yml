@@ -3,7 +3,7 @@ name: Fernando G. Rejon Barrera
 bio: Theoretical Physicist 
 
 # twitter summary info
-description: A blog about technology and stuff related
+# description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
@@ -34,23 +34,23 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-google: mygoogle
-instagram: myinstagram
-pinterest: mypinterest
+# facebook: myfacebook
+# twitter: mytwitter
+# google: mygoogle
+# instagram: myinstagram
+# pinterest: mypinterest
 linkedin: fernando-rejon-barrera
-youtube: myyoutube
-spotify: myspotify
+# youtube: myyoutube
+# spotify: myspotify
 github: frejonb
-gitlab: mygitlab
-lastfm: mylastfm
-stackoverflow: 7044681/mystackoverflow
-quora: userquora
-reddit: username
-medium: medium
-vimeo: myvimeo
-lanyrd: mylanyrd
+gitlab: frejonb
+# lastfm: mylastfm
+# stackoverflow: 7044681/mystackoverflow
+# quora: userquora
+# reddit: username
+# medium: medium
+# vimeo: myvimeo
+# lanyrd: mylanyrd
 inspire: F.G.Rejon.Barrera.1
 email: f.g.rejonbarrera@gmail.com
 
@@ -80,7 +80,7 @@ width: normal
 # projects: true
 
 # if you don't need "about" or "blog", comment them out below
-about: true
+# about: true
 # blog: true
 
 # do you want to show the "read time" of the posts?
