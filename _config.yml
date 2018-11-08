@@ -1,6 +1,6 @@
 # main text of home
 name: Fernando G. Rejon Barrera
-bio: Theoretical Physicist 
+bio: Data Science Researcher | Theoretical Physicist
 
 # twitter summary info
 # description: A blog about technology and stuff related
@@ -57,7 +57,7 @@ email: f.g.rejonbarrera@gmail.com
 authors:
     frejonb:
         name: Fernando G. Rejon Barrera
-        bio: Theoretical Physicist 
+        bio: Data Science Researcher | Theoretical Physicist
         external-image: false
         picture: assets/images/profile.jpeg
     # jamesfoster:
